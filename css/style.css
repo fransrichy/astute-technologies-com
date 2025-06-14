@@ -293,15 +293,15 @@ section h2::after {
 
 /* About Us Section */
 .about {
-    background-color: #fff;
+    background-color: #d343005e;
 }
 
 .about p {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     margin-bottom: 20px;
-    line-height: 1.8;
-    color: #555;
-    text-align: left;
+    line-height: 1.1;
+    color: #040038;
+    text-align: middle;
 }
 
 /* Contact Section */
